@@ -42,6 +42,8 @@ class Battle():
             Battle.characters[self.enemy_data]['hp'] -= 1
 
 
+# Start testing here
+
 print("~~~~~~~~~~~~~~~~~~~~~")
 print("Battle test commence!")
 print("~~~~~~~~~~~~~~~~~~~~~")
